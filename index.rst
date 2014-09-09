@@ -6,7 +6,7 @@
 Welcome to qqqqqqq's documentation!
 ===================================
 
-Contents:
+Contents: gg
 
 .. toctree::
    :maxdepth: 2
