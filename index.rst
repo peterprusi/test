@@ -11,7 +11,7 @@ Contents: gg
 .. toctree::
    :maxdepth: 2
 
-   all-about-me
+   all-about-me.rst
 
 Indices and tables
 ==================
